@@ -23,6 +23,7 @@ export function Footer() {
     return <footer className="hp-footer">
         <Brand />
         <p>نسخة معاينة مؤقتة. لا توجد حسابات أو مدفوعات مفعّلة.</p>
+        <p className="hp-rights" dir="auto">© 2026 Hussein Abdallah. جميع الحقوق محفوظة للمحتوى الأصلي. إعادة نشره أو استخدامه تتطلب إذنًا كتابيًا من صاحبه. مكونات الطرف الثالث تظل خاضعة لتراخيصها الأصلية.</p>
     </footer>;
 }
 
