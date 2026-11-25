@@ -18,3 +18,6 @@ Temporary preview. Not active, on purpose: login, student accounts, payments, pr
 
 ## Fonts
 Noto Sans Arabic in `src/fonts` under the SIL Open Font License (`src/fonts/OFL.txt`).
+
+## Rights
+See NOTICE.md. The episode video carries a visible "Hussein Abdallah" watermark. A notice and a watermark show ownership; they do not technically prevent copying.
