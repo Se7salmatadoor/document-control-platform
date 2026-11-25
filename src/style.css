@@ -98,3 +98,6 @@ body { background: #0b1d33; }
 .hp-ep-link:hover { border-color: var(--hp-gold); }
 .hp-lessonnav { align-items: center; margin-top: 28px; }
 @media (prefers-reduced-motion: reduce) { .hp-root * { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
+
+.hp-rights { flex-basis: 100%; margin: 8px 0 0; font-size: 13px; opacity: .8; line-height: 1.7; }
+.hp-footer { flex-wrap: wrap; }
